@@ -64,11 +64,13 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Persons.sql" />
-    <Build Include="dbo\Stored Procedures\procedure_name.sql" />
     <Build Include="dbo\Stored Procedures\procedure_name2.sql" />
     <Build Include="dbo\Stored Procedures\procedure_name3.sql" />
     <Build Include="dbo\Stored Procedures\procedure_name5.sql" />
     <Build Include="dbo\Stored Procedures\procedure_name4.sql" />
     <Build Include="dbo\Stored Procedures\procedure_name_1.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SchemaCompare.scmp" />
   </ItemGroup>
 </Project>
