@@ -1,0 +1,38 @@
+# Build results
+bin/
+obj/
+*.pdb
+*.cache
+*.dbmdl
+*.dbschema
+*.jfm
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vssscc
+*.vspscc
+
+# Visual Studio folders
+.vs/
+
+# Auto-generated files
+*.sqlce
+*.ncb
+*.log
+*.tlog
+*.bak
+*.bkp
+*.sqlcmdvars
+
+# SSDT specific
+*.publish.xml
+*.dbproj.schemaview
+*.dbproj.user
+
+# Other
+[Dd]ebug/
+[Rr]elease/
+TestResults/
